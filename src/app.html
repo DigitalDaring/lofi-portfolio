@@ -2,9 +2,28 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Biryani:wght@800&family=Raleway:wght@200&display=swap" rel="stylesheet">
 		<meta name="viewport" content="width=device-width" />
 		%sveltekit.head%
+		<style lang="scss">
+			html, body {
+				background-color: #EDBC72;
+				margin: 0;
+				padding: 0;
+			}
+
+			.thick-boy {
+				font-family: 'Biryani', sans-serif;
+				font-weight: 800;
+			}
+
+			.thin-boy {
+				font-family: 'Raleway', sans-serif;
+				font-weight: 200;
+			}
+		</style>
 	</head>
 	<body data-sveltekit-preload-data="hover">
 		<div style="display: contents">%sveltekit.body%</div>
