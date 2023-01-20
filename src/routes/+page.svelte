@@ -1,5 +1,5 @@
 <script>
-    import Nav from '$lib/nav/Nav.svelte';
+    import Nav from '$lib/nav/nav.svelte';
     import AuthorIcon from '$lib/author-icon/author-icon.svelte';
 </script>
 <section class="classy-page">
