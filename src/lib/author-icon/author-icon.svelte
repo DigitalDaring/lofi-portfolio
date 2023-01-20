@@ -1,5 +1,5 @@
 <section class="side-by-side thin-boy">
-    <img src="character-icon.png" class="character-icon"/>
+    <img alt="small iconography of our main character" src="character-icon.png" class="character-icon"/>
     <span class="title">THE SHIPPING COMPANY</span>
 </section>
 

@@ -1,9 +1,9 @@
 <section id="layout">
-    <img src="left-splotch.png" id="left-splotch"/>
+    <img alt="a splash of ink on the left side" src="left-splotch.png" id="left-splotch"/>
     <section id="content">
         <slot></slot>
     </section>
-    <img src="right-splotch.png" id="right-splotch"/>
+    <img alt="a splash of ink on the right side" src="right-splotch.png" id="right-splotch"/>
 </section>
 
 <style lang="scss">

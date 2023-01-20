@@ -20,7 +20,7 @@
     </section>
     <section class="epic-stuff">
         <Nav/>
-        <img src="shipping_container_ink.png" id="shipping-container-image"/>
+        <img alt="a sketch of an old shipping container" src="shipping_container_ink.png" id="shipping-container-image"/>
     </section>
 </section>
 <style lang="scss">
